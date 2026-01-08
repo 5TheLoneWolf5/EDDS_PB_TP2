@@ -1,11 +1,10 @@
 # Projeto API CRUD do Banco
 
-### Testes funcionais com Selenium
+### Testes funcionais com Selenium!
 
-# Vídeo:
+### Vídeo:
 
-<video src="selenium_tests.mp4" width="320" height="240" controls></video>
-
+<video src="https://github.com/5TheLoneWolf5/EDDS_PB_TP2/blob/main/selenium_tests.mp4?raw=true" width="320" height="240" controls></video>
 
 ### Cobertura de testes:
 #### Objetivo: 80% (alcançado).
